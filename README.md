@@ -3,9 +3,9 @@
 ## Popis projektu
 
 * Webová aplikace pro spouštění terminálových příkazů na webovém serveru.
-* Účelem projektu bylo vytvoření jednoduché webové aplikace s odesíláním formuláře, ve které použiju vybrané technologie a frameworky (především Spring MVC a šablony JSP), nikoliv navrhnout uživatelsky smysluplnou aplikaci (chybí i CSS - pardon) a výstupy uživatelem zadaných příkazů se vypisují do konzole vývojářského prostředí. 
+* Účelem projektu bylo vytvoření jednoduché webové aplikace s odesíláním formuláře, ve které použiju vybrané technologie a frameworky (především Spring MVC a šablony JSP), nikoliv navrhnout uživatelsky smysluplnou aplikaci, například chybí CSS (pardon) a výstupy uživatelem zadaných příkazů se vypisují do konzole vývojářského prostředí. 
 * Příkazy ve webovém rozhraní prosím zadávat ve správném tvaru (a žádné hacky), ve formuláři jsou sice připravené validace, ale kontrolují pouze prázdný vstup.
-* Později jsem v projektu připravila repozitář CRUD příkazů pro práci s databází a testovací databázi HSQLDB, tak aby bylo v budoucnu možné dodělat ukládání uživatelem zadaných příkazů do databáze.
+* Později jsem v projektu připravila repozitář CRUD příkazů pro práci s databází a testovací databázi HSQLDB, tak aby bylo v budoucnu možné dodělat perzistentní ukládání uživatelem zadaných příkazů.
 
 
 ## Poznámky k projektu
